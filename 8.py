@@ -1,9 +1,2 @@
-x = "awesome"
-
-def myfunc():
-  x = "fantastic"
-  print("Python is " + x)
-
-myfunc()
-
-print("Python is " + x)
+a=int((179**10)*4)
+print(a**(1/10))

@@ -1,9 +1,6 @@
-x, y, z = "Orange", "Banana", "Cherry"
-print(x)
-print(y)
-print(z)
-fruits = ["apple", "banana", "cherry"]
-x, y, z = fruits
-print(x)
-print(y)
-print(z)
+import math
+pi = 0
+
+for i in range(10):
+    pi+=(((-1)**i)*4)/(1+2*i)
+print(pi)   

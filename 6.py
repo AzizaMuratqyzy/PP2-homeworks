@@ -1,2 +1,5 @@
-x="cool"
-print("Python is " + x)
+c=' '
+for i in range(100):
+    c+='A'
+print(c)    
+

@@ -1,4 +1,6 @@
-if 5>2:
-    print("5 is graeater than 2")
-    #this is a comment
-    
+f=1
+for i in range(1,21):
+
+ f *= i
+print(f) 
+

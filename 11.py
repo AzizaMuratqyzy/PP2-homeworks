@@ -1,2 +1,1 @@
-a="Hello,World!"
-print(a[1]+a[5])
+print(int('179'*50)**2)
